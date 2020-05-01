@@ -1,0 +1,24 @@
+{
+  "params":
+  {
+    "local_uri": "mysql://root:@localhost/coding_thunder",
+    "prod_uri": "mysql://root:@localhost/prod_coding_thunder",
+    "fb_url": "https://facebook.com",
+    "github_url": "https://github.com",
+    "twitter_url": "https://twitter.com",
+    "blog_name": "Sumit Sahaje",
+    "home_page_blog_name": "Sumit's Blog",
+    "page_title": "Sahaje's Blog - Test Theme",
+     "abount_page_header": "About SumitS",
+    "contact_page_header": "Contact SumitS",
+    "GMAIL_SERVER": "smtp.gmail.com",
+    "GMAIL_PORT": 465,
+    "GMAIL_USE_SSL": "True",
+    "GMAIL_USERNAME": "sumitsahaje.python@gmail.com",
+    "GMAIL_PASSWORD": "Mandars!13",
+    "login_image": "slogin.svg",
+    "admin_user": "sumitsahaje.python@gmail.com",
+    "admin_password": "Mandars!13"
+  }
+
+}
